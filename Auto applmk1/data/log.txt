@@ -1,0 +1,208 @@
+2025-08-08 21:39:17,187 [INFO] ====== WebDriver manager ======
+2025-08-08 21:39:17,722 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:39:17,959 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:39:18,119 [INFO] There is no [win64] chromedriver "138.0.7204.183" for browser google-chrome "138.0.7204" in cache
+2025-08-08 21:39:18,120 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:39:18,484 [INFO] WebDriver version 138.0.7204.183 selected
+2025-08-08 21:39:18,486 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-08 21:39:18,486 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.183/win32/chromedriver-win32.zip
+2025-08-08 21:39:18,632 [INFO] Driver downloading response is 200
+2025-08-08 21:39:19,556 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:39:19,785 [INFO] Driver has been saved in cache [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183]
+2025-08-08 21:39:42,262 [INFO] LinkedIn tamamlandý.
+2025-08-08 21:39:45,263 [INFO] ====== WebDriver manager ======
+2025-08-08 21:39:45,767 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:39:45,916 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:39:46,078 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 21:39:54,291 [ERROR] Kariyer.net hata: Message: element not interactable
+  (Session info: chrome=138.0.7204.184)
+Stacktrace:
+	GetHandleVerifier [0x0x84ba83+63395]
+	GetHandleVerifier [0x0x84bac4+63460]
+	(No symbol) [0x0x691f70]
+	(No symbol) [0x0x6d5279]
+	(No symbol) [0x0x6d3962]
+	(No symbol) [0x0x6ff3ac]
+	(No symbol) [0x0x6cffa4]
+	(No symbol) [0x0x6ff624]
+	(No symbol) [0x0x7207ba]
+	(No symbol) [0x0x6ff1a6]
+	(No symbol) [0x0x6ce7b2]
+	(No symbol) [0x0x6cf654]
+	GetHandleVerifier [0x0xac8883+2672035]
+	GetHandleVerifier [0x0xac3cba+2652634]
+	GetHandleVerifier [0x0x872bca+223466]
+	GetHandleVerifier [0x0x862cb8+158168]
+	GetHandleVerifier [0x0x86978d+185517]
+	GetHandleVerifier [0x0x853b78+96408]
+	GetHandleVerifier [0x0x853d02+96802]
+	GetHandleVerifier [0x0x83e90a+9770]
+	BaseThreadInitThunk [0x0x76995d49+25]
+	RtlInitializeExceptionChain [0x0x7752d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7752d281+561]
+
+2025-08-08 21:40:13,235 [INFO] ====== WebDriver manager ======
+2025-08-08 21:40:13,774 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:40:13,940 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:40:14,085 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 21:40:39,312 [ERROR] LinkedIn hata: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-08-08 21:41:13,695 [INFO] ====== WebDriver manager ======
+2025-08-08 21:41:14,249 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:41:14,397 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:41:14,563 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 21:41:49,946 [INFO] LinkedIn tamamlandý.
+2025-08-08 21:41:52,948 [INFO] ====== WebDriver manager ======
+2025-08-08 21:41:53,454 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:41:53,606 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 21:41:53,759 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 21:42:00,071 [ERROR] Kariyer.net hata: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="email"]"}
+  (Session info: chrome=138.0.7204.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x84ba83+63395]
+	GetHandleVerifier [0x0x84bac4+63460]
+	(No symbol) [0x0x692113]
+	(No symbol) [0x0x6da85e]
+	(No symbol) [0x0x6dabfb]
+	(No symbol) [0x0x722f92]
+	(No symbol) [0x0x6ff3f4]
+	(No symbol) [0x0x7207ba]
+	(No symbol) [0x0x6ff1a6]
+	(No symbol) [0x0x6ce7b2]
+	(No symbol) [0x0x6cf654]
+	GetHandleVerifier [0x0xac8883+2672035]
+	GetHandleVerifier [0x0xac3cba+2652634]
+	GetHandleVerifier [0x0x872bca+223466]
+	GetHandleVerifier [0x0x862cb8+158168]
+	GetHandleVerifier [0x0x86978d+185517]
+	GetHandleVerifier [0x0x853b78+96408]
+	GetHandleVerifier [0x0x853d02+96802]
+	GetHandleVerifier [0x0x83e90a+9770]
+	BaseThreadInitThunk [0x0x76995d49+25]
+	RtlInitializeExceptionChain [0x0x7752d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7752d281+561]
+
+2025-08-08 21:56:40,750 [ERROR] LinkedIn hata: 'LinkedInBot' object has no attribute 'cfg'
+2025-08-08 21:56:43,751 [ERROR] Kariyer.net hata: 'KariyerNetBot' object has no attribute 'cfg'
+2025-08-08 22:00:10,088 [INFO] ====== WebDriver manager ======
+2025-08-08 22:00:10,667 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:00:10,826 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:00:10,981 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 22:00:13,618 [ERROR] LinkedIn hata: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x84ba83+63395]
+	GetHandleVerifier [0x0x84bac4+63460]
+	(No symbol) [0x0x692113]
+	(No symbol) [0x0x6c5da5]
+	(No symbol) [0x0x6c11a9]
+	(No symbol) [0x0x70ae57]
+	(No symbol) [0x0x70a74a]
+	(No symbol) [0x0x6ff1a6]
+	(No symbol) [0x0x6ce7b2]
+	(No symbol) [0x0x6cf654]
+	GetHandleVerifier [0x0xac8883+2672035]
+	GetHandleVerifier [0x0xac3cba+2652634]
+	GetHandleVerifier [0x0x872bca+223466]
+	GetHandleVerifier [0x0x862cb8+158168]
+	GetHandleVerifier [0x0x86978d+185517]
+	GetHandleVerifier [0x0x853b78+96408]
+	GetHandleVerifier [0x0x853d02+96802]
+	GetHandleVerifier [0x0x83e90a+9770]
+	BaseThreadInitThunk [0x0x76995d49+25]
+	RtlInitializeExceptionChain [0x0x7752d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7752d281+561]
+
+2025-08-08 22:00:20,713 [INFO] ====== WebDriver manager ======
+2025-08-08 22:00:21,218 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:00:21,375 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:00:21,532 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 22:00:24,150 [ERROR] Kariyer.net hata: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x84ba83+63395]
+	GetHandleVerifier [0x0x84bac4+63460]
+	(No symbol) [0x0x692113]
+	(No symbol) [0x0x6c5da5]
+	(No symbol) [0x0x6c11a9]
+	(No symbol) [0x0x70ae57]
+	(No symbol) [0x0x70a74a]
+	(No symbol) [0x0x6ff1a6]
+	(No symbol) [0x0x6ce7b2]
+	(No symbol) [0x0x6cf654]
+	GetHandleVerifier [0x0xac8883+2672035]
+	GetHandleVerifier [0x0xac3cba+2652634]
+	GetHandleVerifier [0x0x872bca+223466]
+	GetHandleVerifier [0x0x862cb8+158168]
+	GetHandleVerifier [0x0x86978d+185517]
+	GetHandleVerifier [0x0x853b78+96408]
+	GetHandleVerifier [0x0x853d02+96802]
+	GetHandleVerifier [0x0x83e90a+9770]
+	BaseThreadInitThunk [0x0x76995d49+25]
+	RtlInitializeExceptionChain [0x0x7752d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7752d281+561]
+
+2025-08-08 22:00:53,242 [INFO] ====== WebDriver manager ======
+2025-08-08 22:00:53,791 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:00:53,949 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:00:54,098 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 22:00:56,743 [ERROR] LinkedIn hata: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x84ba83+63395]
+	GetHandleVerifier [0x0x84bac4+63460]
+	(No symbol) [0x0x692113]
+	(No symbol) [0x0x6c5da5]
+	(No symbol) [0x0x6c11a9]
+	(No symbol) [0x0x70ae57]
+	(No symbol) [0x0x70a74a]
+	(No symbol) [0x0x6ff1a6]
+	(No symbol) [0x0x6ce7b2]
+	(No symbol) [0x0x6cf654]
+	GetHandleVerifier [0x0xac8883+2672035]
+	GetHandleVerifier [0x0xac3cba+2652634]
+	GetHandleVerifier [0x0x872bca+223466]
+	GetHandleVerifier [0x0x862cb8+158168]
+	GetHandleVerifier [0x0x86978d+185517]
+	GetHandleVerifier [0x0x853b78+96408]
+	GetHandleVerifier [0x0x853d02+96802]
+	GetHandleVerifier [0x0x83e90a+9770]
+	BaseThreadInitThunk [0x0x76995d49+25]
+	RtlInitializeExceptionChain [0x0x7752d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7752d281+561]
+
+2025-08-08 22:01:03,848 [INFO] ====== WebDriver manager ======
+2025-08-08 22:01:04,362 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:01:04,783 [INFO] Get LATEST chromedriver version for google-chrome
+2025-08-08 22:01:04,934 [INFO] Driver [C:\Users\Kutay\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 22:01:07,564 [ERROR] Kariyer.net hata: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x84ba83+63395]
+	GetHandleVerifier [0x0x84bac4+63460]
+	(No symbol) [0x0x692113]
+	(No symbol) [0x0x6c5da5]
+	(No symbol) [0x0x6c11a9]
+	(No symbol) [0x0x70ae57]
+	(No symbol) [0x0x70a74a]
+	(No symbol) [0x0x6ff1a6]
+	(No symbol) [0x0x6ce7b2]
+	(No symbol) [0x0x6cf654]
+	GetHandleVerifier [0x0xac8883+2672035]
+	GetHandleVerifier [0x0xac3cba+2652634]
+	GetHandleVerifier [0x0x872bca+223466]
+	GetHandleVerifier [0x0x862cb8+158168]
+	GetHandleVerifier [0x0x86978d+185517]
+	GetHandleVerifier [0x0x853b78+96408]
+	GetHandleVerifier [0x0x853d02+96802]
+	GetHandleVerifier [0x0x83e90a+9770]
+	BaseThreadInitThunk [0x0x76995d49+25]
+	RtlInitializeExceptionChain [0x0x7752d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7752d281+561]
+
+2025-08-08 22:26:58,419 [INFO] ====== WebDriver manager ======
+2025-08-08 22:26:58,715 [INFO] There is no [win32] chromedriver "latest" for browser google-chrome "138.0.7204" in cache
+2025-08-08 22:26:58,715 [INFO] Get LATEST chromedriver version for google-chrome

@@ -1,0 +1,34 @@
+city_whitelist:
+  - istanbul
+  - istanbul province
+  - istanbul, turkey
+allow_big_companies_outside_city: true
+big_companies:
+  - TEI
+  - ASELSAN
+  - TUSAŞ
+  - Havelsan
+  - Roketsan
+  - KoçSistem
+  - İş Bankası
+  - Enpara
+  - Sabancı
+  - Doğuş Teknoloji
+
+keywords_any:
+  - Yapay Zeka
+  - AI
+  - Veri Bilimi
+  - Data Scientist
+  - MLOps
+  - Python
+  - Gömülü
+  - Güç Elektroniği
+  - İt Audit
+
+blacklist_keywords:
+  - Staj
+  - Internship
+
+max_daily_applications: 20
+headless: false

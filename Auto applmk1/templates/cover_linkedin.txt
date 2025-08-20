@@ -1,0 +1,11 @@
+Merhaba {{ company }} İK Ekibi,
+
+{{ city }} lokasyonundaki {{ role }} ilanınız için başvurumu iletiyorum.
+{{ summary }}
+Özellikle {{ skills }} alanlarındaki yetkinliklerim ve Python ile ML/AI projelerimle,
+ekibinizin veri odaklı karar süreçlerine katkı sağlayabileceğime inanıyorum.
+
+İnceleme için teşekkürler.
+Saygılarımla,
+{{ name }} — {{ title }}
+Tarih: {{ today }}

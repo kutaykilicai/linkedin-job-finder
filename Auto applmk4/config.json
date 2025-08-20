@@ -1,0 +1,19 @@
+{
+  "queries": [
+    "Siber Güvenlik Uzmanı",
+    "IT Auditor",
+    "Bilgi Güvenliği",
+    "Elektrik Elektronik Mühendisi"
+  ],
+  "locations": [
+    "İstanbul, Türkiye"
+  ],
+  "filters": {
+    "easy_apply_only": true,
+    "date_posted": "r604800",
+    "experience_levels": null,
+    "work_type": null
+  },
+  "max_pages": 3,
+  "per_session_limit": 10
+}

@@ -1,0 +1,9 @@
+Merhaba {{ company }} İK Ekibi,
+
+{{ city }} lokasyonundaki {{ role }} ilanınız için başvurumu iletiyorum.
+{{ summary }}
+Özellikle {{ skills }} alanlarındaki yetkinliklerimle veri odaklı karar süreçlerine katkı sağlayabileceğime inanıyorum.
+
+Teşekkürler.
+{{ name }} — {{ title }}
+Tarih: {{ today }}

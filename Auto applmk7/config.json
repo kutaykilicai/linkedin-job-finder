@@ -1,0 +1,19 @@
+{
+  "queries": [
+    "Siber Güvenlik Uzmanı",
+    "IT Auditor",
+    "Bilgi Güvenliği Uzmanı",
+    "Cyber Security Specialist",
+    "Information Security Analyst"
+  ],
+  "locations": [
+    "İstanbul, Türkiye",
+    "Ankara, Türkiye",
+    "İzmir, Türkiye"
+  ],
+  "min_score": 65,
+  "max_results": 20,
+  "filters": {
+    "date_posted": "r86400"
+  }
+}

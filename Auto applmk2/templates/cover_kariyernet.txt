@@ -1,0 +1,9 @@
+Sayın {{ company }} İnsan Kaynakları,
+
+{{ city }} lokasyonundaki {{ role }} pozisyonu için başvurumu iletiyorum.
+{{ summary }}
+Python/ML odaklı tecrübem ile üretim ortamına alınabilir, sürdürülebilir çözümler geliştirebilirim.
+
+Saygılarımla,
+{{ name }} — {{ title }}
+Tarih: {{ today }}
