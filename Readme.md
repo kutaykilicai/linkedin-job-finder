@@ -29,6 +29,12 @@
 - Rate limiting koruması
 - Proxy desteği
 
+## 🌐 Demo & Önizleme
+
+### 🎨 **Web Sitesi Önizleme**
+Projenin görsel tanıtımı ve detaylı bilgiler için web sitesini ziyaret edin:
+📄 **[LinkedIn Job Finder Web Sitesi](./linkedin-job-finder-website.html)** - Modern tasarım ve interaktif demo
+
 ## 🚀 Hızlı Başlangıç
 
 ### 📋 Gereksinimler
